@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@udemy.time:
+  ssh: vagrant:udemy.time:/var/www/html
